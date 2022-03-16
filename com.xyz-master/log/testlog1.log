@@ -1,0 +1,78 @@
+2018-11-28 17:08:07,471 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-28 17:15:10,884 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-28 17:17:03,990 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-28 17:17:04,089 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-11-29 11:08:32,720 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 11:08:33,257 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-11-29 11:10:58,474 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 11:10:58,558 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-11-29 11:28:23,691 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 11:28:23,799 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-11-29 11:31:13,807 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 11:31:13,935 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-11-29 11:44:29,125 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 11:45:11,408 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 12:06:33,084 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-11-29 12:06:33,138 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-12-21 14:28:51,559 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-12-21 14:28:52,078 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-12-21 14:36:15,152 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Successfully open Department 
+2018-12-21 14:36:15,232 [main] INFO com.xyz.TestCases.DepartmentTC_001 - Department matched
+2018-12-25 12:07:33,157 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:07:33,281 [main] INFO EagerCrow - Department matched
+2018-12-25 12:41:21,845 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:41:21,934 [main] INFO EagerCrow - Department matched
+2018-12-25 12:41:25,108 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 12:45:47,261 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:45:47,394 [main] INFO EagerCrow - Department matched
+2018-12-25 12:45:50,541 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 12:48:12,462 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:48:12,620 [main] INFO EagerCrow - Department matched
+2018-12-25 12:48:15,796 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 12:49:55,951 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:49:56,010 [main] INFO EagerCrow - Department matched
+2018-12-25 12:49:59,200 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 12:53:25,060 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:53:25,153 [main] INFO EagerCrow - Department matched
+2018-12-25 12:53:28,282 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 12:58:53,425 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 12:58:53,510 [main] INFO EagerCrow - Department matched
+2018-12-25 12:58:56,803 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 13:14:25,816 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 13:14:25,883 [main] INFO EagerCrow - Department matched
+2018-12-25 13:14:29,114 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 13:16:53,088 [main] INFO EagerCrow - Successfully open Department 
+2018-12-25 13:16:53,148 [main] INFO EagerCrow - Department matched
+2018-12-25 13:16:56,413 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-25 13:17:01,867 [main] INFO EagerCrow - Display the Product Details
+2018-12-26 10:54:40,520 [main] INFO EagerCrow - Successfully open Department 
+2018-12-26 10:54:40,642 [main] INFO EagerCrow - Department matched
+2018-12-26 10:54:43,786 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-26 10:54:49,184 [main] INFO EagerCrow - Display the Product Details
+2018-12-26 12:14:01,066 [main] INFO EagerCrow - Successfully open Department 
+2018-12-26 12:14:01,600 [main] INFO EagerCrow - Department matched
+2018-12-26 12:14:04,883 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-26 12:14:14,693 [main] INFO EagerCrow - Display the Product Details
+2018-12-26 12:47:30,810 [main] INFO EagerCrow - Successfully open Department 
+2018-12-26 12:47:30,913 [main] INFO EagerCrow - Department matched
+2018-12-26 12:47:34,216 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-26 12:47:39,692 [main] INFO EagerCrow - Display the Product Details
+2018-12-26 12:48:48,526 [main] INFO EagerCrow - Successfully open Department 
+2018-12-26 12:48:48,611 [main] INFO EagerCrow - Department matched
+2018-12-26 12:48:51,817 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-26 12:48:57,287 [main] INFO EagerCrow - Display the Product Details
+2018-12-27 17:11:05,653 [main] INFO EagerCrow - Successfully open Department 
+2018-12-27 17:11:06,007 [main] INFO EagerCrow - Department matched
+2018-12-27 17:11:09,200 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-27 17:20:20,778 [main] INFO EagerCrow - Successfully open Department 
+2018-12-27 17:20:20,847 [main] INFO EagerCrow - Department matched
+2018-12-27 17:20:23,993 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-27 17:20:29,349 [main] INFO EagerCrow - Display the Product Details
+2018-12-28 12:16:25,751 [main] INFO EagerCrow - Successfully open Department 
+2018-12-28 12:16:26,897 [main] INFO EagerCrow - Department matched
+2018-12-28 12:16:30,097 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-28 12:16:35,614 [main] INFO EagerCrow - Display the Product Details
+2018-12-31 11:00:54,042 [main] INFO EagerCrow - Successfully open Department 
+2018-12-31 11:00:54,146 [main] INFO EagerCrow - Department matched
+2018-12-31 11:01:02,321 [main] INFO EagerCrow - Successfully click on Bed/cot Department
+2018-12-31 11:01:22,828 [main] INFO EagerCrow - Display the Product Details

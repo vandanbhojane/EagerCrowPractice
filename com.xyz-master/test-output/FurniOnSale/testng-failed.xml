@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FurniOnSale]" parallel="tests">
+  <listeners>
+    <listener class-name="com.xyz.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name=" App test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.xyz.TestCases.DepartmentTC_001">
+        <methods>
+          <include name="clickOnDepartment"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.xyz.TestCases.DepartmentTC_001 -->
+    </classes>
+  </test> <!--  App test(failed) -->
+</suite> <!-- Failed suite [FurniOnSale] -->
